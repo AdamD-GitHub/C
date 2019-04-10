@@ -2,10 +2,10 @@
 // Author:  Adam D
 // Date:    10/23/2018
 // 
-// Class Name: Halloween Movie Selection
+// Class Name: Movie Selection
 // Class Purpose:
-//          This class inputs a media file consisting of horror movies and prompts the 
-//          user to choose three movies they prefer to watch on Halloween.  The selected
+//          This class inputs a media file consisting of movies and prompts the 
+//          user to choose three movies they prefer to watch.  The selected
 //          movies are written to an output file.  
 //************************************************************************************
 //************************************ CHANGE LOG ************************************
